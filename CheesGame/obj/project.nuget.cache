@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmRlQu4wsURfvnARWPsvZ3i2HYwicqrW73OPYvznqrD+XJV/IUUgYuUzNXXY2FxIok35ARz5oLboKhQ0K6i3yQ==",
+  "success": true,
+  "projectFilePath": "D:\\AN3\\An 3 sem 2\\CheesGame\\CheesGame\\CheesGame\\CheesGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sando\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

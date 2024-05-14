@@ -1,0 +1,20 @@
+﻿ChessUI
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\AN3\An 3 sem 2\CheesGame\CheesGame\ChessUI\obj\Debug\net8.0-windows\
+ChessUI
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\AN3\An 3 sem 2\CheesGame\CheesGame\ChessUI\App.xaml
+4-1284736647
+
+12180276032
+335189889141
+GameOverMenu.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
+
+True
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ChessUI</id>
+    <version>1.0.0</version>
+    <authors>ChessUI</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="CheesGame" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\AN3\An 3 sem 2\CheesGame\CheesGame\ChessUI\bin\Debug\net8.0-windows\ChessUI.runtimeconfig.json" target="lib\net8.0-windows7.0\ChessUI.runtimeconfig.json" />
+    <file src="D:\AN3\An 3 sem 2\CheesGame\CheesGame\ChessUI\bin\Debug\net8.0-windows\ChessUI.dll" target="lib\net8.0-windows7.0\ChessUI.dll" />
+  </files>
+</package>
